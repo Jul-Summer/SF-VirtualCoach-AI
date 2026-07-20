@@ -1,0 +1,26 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Operating system files
+.DS_Store
+
+# Machine Learning model weights
+*.pth
+*.pt
+*.ckpt
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp

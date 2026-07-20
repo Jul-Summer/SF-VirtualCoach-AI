@@ -1,0 +1,14 @@
+
+torch
+torchvision
+opencv-python
+numpy
+pandas
+matplotlib
+scipy
+dtaidistance
+fastdtw
+tqdm
+Pillow
+jupyter
+notebook
