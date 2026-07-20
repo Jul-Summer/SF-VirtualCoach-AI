@@ -136,13 +136,13 @@ Virtual_Coach/
 ## Google Colab Notebooks
 
 ### Sprint 1 — Keypoint R-CNN Pose Detection
-[Open in Colab]([https://colab.research.google.com/drive/1uO8dPtjoPPQrlK56rTnrXjnB039K6FVa?usp=sharing])    
+[https://colab.research.google.com/drive/1uO8dPtjoPPQrlK56rTnrXjnB039K6FVa?usp=sharing]    
 
 ### Sprint 2 — Pose Matching
-[Open in Colab]([https://colab.research.google.com/drive/1uO8dPtjoPPQrlK56rTnrXjnB039K6FVa?usp=sharing])
+[https://colab.research.google.com/drive/1uO8dPtjoPPQrlK56rTnrXjnB039K6FVa?usp=sharing]
 
 ### Sprint 3 — Video Validation
-[Open in Colab]([https://colab.research.google.com/drive/17p9zufjnnKboHQIFD1W0ykvZgGs8lzfa?usp=sharing])
+[https://colab.research.google.com/drive/17p9zufjnnKboHQIFD1W0ykvZgGs8lzfa?usp=sharing]
 
 ### Sprint 4 — Final Virtual Coach Pipeline
-[Open in Colab]([https://colab.research.google.com/drive/1tJ11RvSZnuBXVcdXbk3p2lolMxy6SIBn?usp=sharing])
+[https://colab.research.google.com/drive/1tJ11RvSZnuBXVcdXbk3p2lolMxy6SIBn?usp=sharing]
